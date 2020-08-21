@@ -1,6 +1,6 @@
 const algoliaPlacesApiAppId = 'plU4N8HG6QWK';
 const algoliaPlacesApiKey = '1131438afb49f60a48ed468c5af189b8';
-const mapboxApiToken = 'pk.eyJ1Ijoia3Jva3JvYiIsImEiOiJjam83MjVrbWkwbWNoM3FwN2VhMm81eGRzIn0.yM3wkq5LJd8NeSYyPyTY4w';
+const mapboxApiToken = 'pk.eyJ1IjoicGF1bGV0dGUtYm9vcCIsImEiOiJja2U0OTFnMXgwMmllMnBxZzNyeG90ZWRrIn0.Ju1TpcJBRJ3YUTuiwudpQA';
 const taxiFareApiUrl = 'https://myboniface-taxi.herokuapp.com/predict_fare';
 
 const displayMap = (start, stop) => {
